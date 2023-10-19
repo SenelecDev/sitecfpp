@@ -1,5 +1,5 @@
 <nav class="navbar navbar-area navbar-expand-lg nav-style-01" style="
-background: #073a8b;overflow: hidden;
+background: #073a8b;
 ">
     <div class="container nav-container">
         <div class="responsive-mobile-menu">

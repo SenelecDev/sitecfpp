@@ -1054,7 +1054,7 @@ a i {
 }
 
 img {
-    max-width: 100%;
+    max-width: 80%;
 }
 
 /*input and button type focus outline disable*/
@@ -4457,7 +4457,7 @@ select:focus {
 }
 
 .navbar-area .nav-container {
-    background-color: #073a8b;
+    background: none !important;
     -webkit-box-shadow: 0px 6px 15px 0px rgba(0, 0, 0, 0.2);
     box-shadow: 0px 6px 15px 0px rgba(0, 0, 0, 0.2);
     border-bottom-right-radius: 10px;
